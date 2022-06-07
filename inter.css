@@ -1,0 +1,26 @@
+.avatar {
+    display: flex;
+    vertical-align: middle;
+    position:relative;
+    left:550px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+ .top{
+    display: flex;
+   text-align: left;
+   position:relative;
+    left:500px;
+     top: 2px;
+     
+ }
+#middle{
+    padding: 10;
+    margin-left: 5rem;
+}
+
+#last{
+    padding: 10;
+    margin-left: 5rem;
+}
